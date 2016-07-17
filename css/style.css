@@ -1,0 +1,66 @@
+
+.main-row{
+	background-color: silver;
+	margin-bottom: 500px;
+	
+}
+
+.main-col{
+	border:3px solid yellow;
+	
+	margin: 20px 0;
+}
+
+.secondary-col{
+	border: 3px solid blue;
+	
+	margin: 20px 0;
+}
+
+.heading1{
+	border: 3px solid green;
+	height: 60px;
+}
+
+.heading2{
+	border:3px solid orange;
+	height: 60px;
+}
+
+.main-img{
+	border:3px solid red;
+	height: 525px;
+}
+
+.img, .par, .info{
+	border: 3px solid gray;
+	padding: 20px;
+}
+
+.video-preview{
+	margin-bottom: 20px;
+}
+
+.preview{
+	border: 3px solid aqua;
+	height: 80px;
+}
+
+.description{
+	border:3px solid coral;
+	height: 80px;
+}
+
+.post{
+	margin-bottom: 20px;
+}
+
+.user-img{
+	border: 3px solid #008b8b;
+	height: 60px;
+}
+
+.user-post{
+	border: 3px solid darkblue;
+	height: 60px;
+}
